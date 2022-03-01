@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/festv-frlix.mp3-4c886ee40b64a311d34a9892acc0fb27.mp3str"
+
+[deps]
+
+source_file="res://festv-frlix.mp3"
+dest_files=[ "res://.import/festv-frlix.mp3-4c886ee40b64a311d34a9892acc0fb27.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
